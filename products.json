@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "63858d38512e9153d44f4cf7"
+  },
+  "name": "Iphone 12 Pro Max",
+  "price": 950
+},{
+  "_id": {
+    "$oid": "63858d63512e9153d44f4cf8"
+  },
+  "name": "Samsung Galaxy Note 12",
+  "price": 850
+},{
+  "_id": {
+    "$oid": "63858d6c7becac6035ddd7f9"
+  },
+  "name": "Huawei 851N",
+  "price": 750
+},{
+  "_id": {
+    "$oid": "63868210ea3d6c434276c169"
+  },
+  "name": "Nokia 1100",
+  "price": 650
+},{
+  "_id": {
+    "$oid": "63868e9c0d3b1177f53c4c87"
+  },
+  "name": "Sony Ericson",
+  "price": 550
+}]
